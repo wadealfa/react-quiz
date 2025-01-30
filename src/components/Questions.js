@@ -1,3 +1,4 @@
+import Option from "./Option";
 
 function Questions({ question, dispatch, answer }) {
   // console.log(question);

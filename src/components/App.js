@@ -134,7 +134,6 @@ function App() {
             dispatch={dispatch}
           />
         )}
-        <input type="text" value='age' name="" id="" />
       </Main>
     </div>
   );
